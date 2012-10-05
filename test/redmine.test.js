@@ -4,7 +4,6 @@ var util = require('util');
 
 var basedir = path.join(__dirname, '..');
 var libdir = path.join(basedir, 'lib');
-var assert = require('assert');
 
 var Redmine = require(path.join(libdir, 'redmine.js'));
 

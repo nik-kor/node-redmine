@@ -1,2 +1,7 @@
 node_modules
 example/my.example.js
+
+#vim hot backups
+*.swp
+*.swo
+
